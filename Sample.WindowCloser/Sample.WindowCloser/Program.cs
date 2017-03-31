@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
+using Sample.WindowCloser.View;
 
 namespace Sample.WindowCloser
 {
